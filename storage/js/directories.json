@@ -5624,12 +5624,13 @@
             "/games/steakandjakemidnightmarch/index.html"
         ],
         "thumbnail": "/images/thumbnails/steakandjakemidnightmarch.jpg",
-         "games/retro-bowl-college/index.html": {
+         "seraph/games/retro-bowl-college/index.html": {
     "files": [
-      "/games/retro-bowl-college/index.html"
+      "/seraph/games/retro-bowl-college/index.html"
     ],
-    "thumbnail": "/games/retro-bowl-college/unnamed.png"
+    "thumbnail": "/seraph/games/retro-bowl-college/unnamed.png"
   }
+
 
 
     }
