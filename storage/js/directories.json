@@ -5623,6 +5623,14 @@
             "/games/steakandjakemidnightmarch/Steak_and_Jake_Midnight_March.swf",
             "/games/steakandjakemidnightmarch/index.html"
         ],
-        "thumbnail": "/images/thumbnails/steakandjakemidnightmarch.jpg"
+        "thumbnail": "/images/thumbnails/steakandjakemidnightmarch.jpg",
+         "games/retro-bowl-college/index.html": {
+    "files": [
+      "/games/retro-bowl-college/index.html"
+    ],
+    "thumbnail": "/games/retro-bowl-college/unnamed.png"
+  }
+
+
     }
 }
