@@ -128,7 +128,7 @@ function poki_loadbar(ctx, width, height, total, current, image) {
 
 ///~
 function poki_get_team_raw() {
-	return PokiSDK.getURLParam('team');
+	return PokiSDK ? PokiSDK.getURLParam('team') : '';
 }
 
 function poki_set_team_raw(team) {

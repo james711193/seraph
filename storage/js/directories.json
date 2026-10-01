@@ -5623,15 +5623,70 @@
             "/games/steakandjakemidnightmarch/Steak_and_Jake_Midnight_March.swf",
             "/games/steakandjakemidnightmarch/index.html"
         ],
-        "thumbnail": "/images/thumbnails/steakandjakemidnightmarch.jpg",
-         "seraph/games/retro-bowl-college/index.html": {
-    "files": [
-      "/seraph/games/retro-bowl-college/index.html"
-    ],
-    "thumbnail": "/seraph/games/retro-bowl-college/unnamed.png"
-  }
-
-
-
+        "thumbnail": "/images/thumbnails/steakandjakemidnightmarch.jpg"
+    },
+    "retro-bowl-college/index.html": {
+        "files": [
+            "/games/retro-bowl-college/html5game/Achievements.txt",
+            "/games/retro-bowl-college/html5game/Charities.txt",
+            "/games/retro-bowl-college/html5game/Cities_CO.txt",
+            "/games/retro-bowl-college/html5game/Colleges.txt",
+            "/games/retro-bowl-college/html5game/Editor.json",
+            "/games/retro-bowl-college/html5game/EpilogueValues_CO.txt",
+            "/games/retro-bowl-college/html5game/Hobbies_CO.txt",
+            "/games/retro-bowl-college/html5game/LanguageUS.txt",
+            "/games/retro-bowl-college/html5game/LanguageUS_CO.txt",
+            "/games/retro-bowl-college/html5game/MajorMinor_CO.txt",
+            "/games/retro-bowl-college/html5game/Names_F0.txt",
+            "/games/retro-bowl-college/html5game/Names_F1.txt",
+            "/games/retro-bowl-college/html5game/Names_L.txt",
+            "/games/retro-bowl-college/html5game/PlayerRecords.txt",
+            "/games/retro-bowl-college/html5game/ProTeams_CO.txt",
+            "/games/retro-bowl-college/html5game/RetroBowl.js",
+            "/games/retro-bowl-college/html5game/RetroBowl_texture_0.png",
+            "/games/retro-bowl-college/html5game/RetroBowl_texture_1.png",
+            "/games/retro-bowl-college/html5game/RetroBowl_texture_2.png",
+            "/games/retro-bowl-college/html5game/RetroBowl_texture_3.png",
+            "/games/retro-bowl-college/html5game/Shopping.txt",
+            "/games/retro-bowl-college/html5game/Teams.txt",
+            "/games/retro-bowl-college/html5game/Traits_CO.txt",
+            "/games/retro-bowl-college/html5game/snd_audible.ogg",
+            "/games/retro-bowl-college/html5game/snd_audience_dis.ogg",
+            "/games/retro-bowl-college/html5game/snd_audience_fg.ogg",
+            "/games/retro-bowl-college/html5game/snd_audience_idle.ogg",
+            "/games/retro-bowl-college/html5game/snd_beep.ogg",
+            "/games/retro-bowl-college/html5game/snd_beep2.ogg",
+            "/games/retro-bowl-college/html5game/snd_bounce.ogg",
+            "/games/retro-bowl-college/html5game/snd_click.ogg",
+            "/games/retro-bowl-college/html5game/snd_co_brass1.ogg",
+            "/games/retro-bowl-college/html5game/snd_co_brass2.ogg",
+            "/games/retro-bowl-college/html5game/snd_co_brass3.ogg",
+            "/games/retro-bowl-college/html5game/snd_co_brass4.ogg",
+            "/games/retro-bowl-college/html5game/snd_drink.ogg",
+            "/games/retro-bowl-college/html5game/snd_error.ogg",
+            "/games/retro-bowl-college/html5game/snd_kick.ogg",
+            "/games/retro-bowl-college/html5game/snd_oof1.ogg",
+            "/games/retro-bowl-college/html5game/snd_oof2.ogg",
+            "/games/retro-bowl-college/html5game/snd_oof3.ogg",
+            "/games/retro-bowl-college/html5game/snd_post.ogg",
+            "/games/retro-bowl-college/html5game/snd_purchase.ogg",
+            "/games/retro-bowl-college/html5game/snd_starrating.ogg",
+            "/games/retro-bowl-college/html5game/snd_success.ogg",
+            "/games/retro-bowl-college/html5game/snd_tackle.ogg",
+            "/games/retro-bowl-college/html5game/snd_throw.ogg",
+            "/games/retro-bowl-college/html5game/snd_timeout.ogg",
+            "/games/retro-bowl-college/html5game/sound/worklets/audio-worklet.js",
+            "/games/retro-bowl-college/html5game/splash.png",
+            "/games/retro-bowl-college/html5game/uph_poki.js",
+            "/games/retro-bowl-college/html5game/v2/Competitions_CO.txt",
+            "/games/retro-bowl-college/html5game/v2/Conferences_CO.txt",
+            "/games/retro-bowl-college/html5game/v2/Rounds_CO.txt",
+            "/games/retro-bowl-college/html5game/v2/Schedule_CO.txt",
+            "/games/retro-bowl-college/html5game/v2/Teams_CO.txt",
+            "/games/retro-bowl-college/html5game/v2/uniforms_default_CO.txt",
+            "/games/retro-bowl-college/index.html",
+            "/games/retro-bowl-college/unnamed.png"
+        ],
+        "thumbnail": "/games/retro-bowl-college/unnamed.png"
     }
 }

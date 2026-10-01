@@ -4903,37 +4903,6 @@
         ],
         "thumbnail": ""
     },
-    "ballisticchickens/index.html": {
-        "files": [
-            "/games/ballisticchickens/code/achieve.js",
-            "/games/ballisticchickens/code/game.js",
-            "/games/ballisticchickens/code/help.js",
-            "/games/ballisticchickens/code/menu.js",
-            "/games/ballisticchickens/code/shop.js",
-            "/games/ballisticchickens/code/start.js",
-            "/games/ballisticchickens/data.js",
-            "/games/ballisticchickens/fonts/burned.ttf",
-            "/games/ballisticchickens/fonts/manrope.ttf",
-            "/games/ballisticchickens/fonts/rubik.ttf",
-            "/games/ballisticchickens/fonts/ubuntu.ttf",
-            "/games/ballisticchickens/index.html",
-            "/games/ballisticchickens/logo.png",
-            "/games/ballisticchickens/sprites/cannon.png",
-            "/games/ballisticchickens/sprites/chicken.png",
-            "/games/ballisticchickens/sprites/collectables.png",
-            "/games/ballisticchickens/sprites/gameExtras.png",
-            "/games/ballisticchickens/sprites/ground.png",
-            "/games/ballisticchickens/sprites/logo.png",
-            "/games/ballisticchickens/sprites/outline.png",
-            "/games/ballisticchickens/sprites/rocket.png",
-            "/games/ballisticchickens/sprites/shopBuilder.png",
-            "/games/ballisticchickens/sprites/trampoline.png",
-            "/games/ballisticchickens/sprites/update1dot1.png",
-            "/games/ballisticchickens/sprites/upgrades.png",
-            "/games/ballisticchickens/stuff.md"
-        ],
-        "thumbnail": ""
-    },
     "chooseyourweapon/index.html": {
         "files": [
             "/games/chooseyourweapon/choose-your-weapon.swf",
